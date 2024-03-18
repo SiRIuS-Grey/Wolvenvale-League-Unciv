@@ -30,9 +30,5 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": ["[-10]% Culture cost of adopting new Policies","[+1 Gold, +1 Food, +1 Production] from [Farm] tiles [in all cities]", "[+4 Faith, +2 Culture] from every [Monument]"],
-		"cities": ["Wolvenvale","Risana","Avex","Alphine","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
-]
+		"cities": ["Wolvenvale","Risana","Avex","Alphine","Elten","Sakurai","Jihana","Noire","Illia",
+			"Toshiro","Dux","Aramaya","Wrexia","The Last Citadel","Citadark","Order's Sanctuary",

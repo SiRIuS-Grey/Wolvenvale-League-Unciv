@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Hero's Memorial",
+		"uniqueTo": "Wolvenvale League",
+		"cost": 400,
+		"happiness": 5,
+		"culture": 5,
+		"uniques": "[+15]% Strength",
+		"quote": "Wolvenvale honors those who gave their lives. The Hero's Memorial is complete",
+		"maintenance": 0,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Monument",
+		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Adventurer's Academy",
+		"replaces": "Barracks",
+		"uniqueTo": "Wolvenvale League",
+		"cost": 75,
+		"hurryCostModifier": 150,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "[5]% Strength",],
+		"requiredTech": "Bronze Working"
+},
 ]

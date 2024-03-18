@@ -26,4 +26,6 @@ Adventurer
 
 Created using the Example Civ found at https://github.com/yairm210/Unciv-mod-example
 
+Icon: obelisk by Smalllike from <a href="https://thenounproject.com/browse/icons/term/obelisk/" target="_blank" title="obelisk Icons">Noun Project</a> (CC BY 3.0)
+
 For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)

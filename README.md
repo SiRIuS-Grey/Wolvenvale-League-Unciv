@@ -26,6 +26,10 @@ Adventurer
 
 Created using the Example Civ found at https://github.com/yairm210/Unciv-mod-example
 
-Icon: obelisk by Smalllike from <a href="https://thenounproject.com/browse/icons/term/obelisk/" target="_blank" title="obelisk Icons">Noun Project</a> (CC BY 3.0)
+Icons used:
+obelisk by Smalllike from <a href="https://thenounproject.com/browse/icons/term/obelisk/" target="_blank" title="obelisk Icons">Noun Project</a> (CC BY 3.0)
+Javelin by WEBTECHOPS LLP from <a href="https://thenounproject.com/browse/icons/term/javelin/" target="_blank" title="Javelin Icons">Noun Project</a> (CC BY 3.0)
+Monument by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/monument/" target="_blank" title="Monument Icons">Noun Project</a> (CC BY 3.0)
+academy by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/academy/" target="_blank" title="academy Icons">Noun Project</a> (CC BY 3.0)
 
 For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)

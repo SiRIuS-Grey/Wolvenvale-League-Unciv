@@ -1,0 +1,62 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Adventurer's Academy
+  rotate: false
+  xy: 4, 220
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+BuildingIcons/Breeders
+  rotate: false
+  xy: 1420, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hero's Monument
+  rotate: false
+  xy: 712, 928
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+BuildingIcons/Holodeck
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Aliens
+  rotate: false
+  xy: 4, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Wolvenvale League
+  rotate: false
+  xy: 712, 220
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+UnitIcons/Adventurer
+  rotate: false
+  xy: 4, 928
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+UnitIcons/Phasers
+  rotate: false
+  xy: 112, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

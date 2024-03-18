@@ -2,7 +2,7 @@
 	{
 	"name": "Adventurer",
 		"unitType": "Ranged",
-		"uniqueTo": ["Wolvenvale League",],
+		"uniqueTo": ["Wolvenvale League"],
 		"replaces": "Scout",
 		"movement": 2,
 		"strength": 5,

@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Hero's Memorial",
-		"uniqueTo": "Wolvenvale League",
+		"uniqueTo": "Wolvenvale",
 		"cost": 400,
 		"happiness": 5,
 		"culture": 5,
@@ -15,7 +15,7 @@
 	{
 		"name": "Adventurer's Academy",
 		"replaces": "Barracks",
-		"uniqueTo": "Wolvenvale League",
+		"uniqueTo": "Wolvenvale",
 		"cost": 75,
 		"hurryCostModifier": 150,
 		"happiness": 2,

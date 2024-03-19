@@ -19,7 +19,7 @@
 		"cost": 75,
 		"hurryCostModifier": 150,
 		"happiness": 2,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "[5]% Strength",],
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "[5]% Strength"],
 		"requiredTech": "Bronze Working"
 	}
 },

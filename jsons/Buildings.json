@@ -5,8 +5,8 @@
 		"cost": 400,
 		"happiness": 5,
 		"culture": 5,
-		"uniques": "[+15]% Strength",
-		"quote": "Wolvenvale honors those who gave their lives. The Hero's Memorial is complete",
+		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities","[20]% Strength"]
+		"quote": "Wolvenvale honors those who gave their lives. As Lucien Suave once gave his for the sake of his people, we ardently choose to protect all that he sacrificed for. <br>-Leovold, Academy Headmaster",
 		"maintenance": 0,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Monument",
@@ -21,5 +21,6 @@
 		"happiness": 2,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "[5]% Strength",],
 		"requiredTech": "Bronze Working"
+	}
 },
 ]

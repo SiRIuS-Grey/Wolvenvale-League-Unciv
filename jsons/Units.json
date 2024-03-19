@@ -9,7 +9,6 @@
 		"rangedStrength": 5,
 		"range": 2,
 		"cost": 30,
-		"promotions": "Survival",
 		"uniques": ["Ignores Terrain Cost", "[4] Sight"],
 		"sounds": "whoosh"
 	}

@@ -10,7 +10,7 @@ Unique Buildings and Units
 
 The Hero's Monument
 -Requires Pottery and a Monument in All Cities
--Provides +5 Culture and Happiness, and +15% Military Strength to all units.
+-Provides +5 Culture and Happiness, Triples gained gold from defeating Barbarians, and +15% Military Strength to all units.
 -No Maintenance Cost
 
 Adventurer's Academy

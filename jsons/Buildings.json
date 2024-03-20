@@ -2,7 +2,7 @@
 	{
 		"name": "Hero's Memorial",
 		"uniqueTo": "Wolvenvale",
-		"cost": 400,
+		"cost": 200,
 		"happiness": 5,
 		"culture": 5,
 		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities","[15]% Strength"],

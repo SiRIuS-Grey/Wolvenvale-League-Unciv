@@ -52,6 +52,8 @@ Victory:
 
 Created using the Example Civ found at https://github.com/yairm210/Unciv-mod-example
 
+A massive shoutout to the Unciv Discord for their assistance in helping this mod come together!
+
 Icons used:
 obelisk by Smalllike from <a href="https://thenounproject.com/browse/icons/term/obelisk/" target="_blank" title="obelisk Icons">Noun Project</a> (CC BY 3.0)
 Javelin by WEBTECHOPS LLP from <a href="https://thenounproject.com/browse/icons/term/javelin/" target="_blank" title="Javelin Icons">Noun Project</a> (CC BY 3.0)

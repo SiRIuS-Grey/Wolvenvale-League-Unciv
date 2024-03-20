@@ -35,14 +35,17 @@ Peacetime:
 - Truth Despair Hope (FE Sacred Stones) - Evelyn Lark
 
 War
--Death Gene - La Mulana 2 OST
--Showdown at the Tower (DK94 Stage 9-8) - GaMetal
--Twilight of the Gods (FE Echoes) - whitechubby
--God Shattering Star - English Version (FE3H) - FamilyJules ft Joe Zieja
+- Death Gene - La Mulana 2 OST
+- Showdown at the Tower (DK94 Stage 9-8) - GaMetal
+- Twilight of the Gods (FE Echoes) - whitechubby
+- God Shattering Star - English Version (FE3H) - FamilyJules ft Joe Zieja
 
-Golden Ages: Moonlight Sonata (3rd Movement) - RichaadEB
-Defeat: Will's Dream (Illusion of Gaia) - Fenix Ark Angelus
-Victory: To Far Away Times (Chrono Trigger) - GaMetal
+Golden Ages: 
+- Moonlight Sonata (3rd Movement) - RichaadEB
+Defeat:
+- Will's Dream (Illusion of Gaia) - Fenix Ark Angelus
+Victory:
+- To Far Away Times (Chrono Trigger) - GaMetal
 
 
 Created using the Example Civ found at https://github.com/yairm210/Unciv-mod-example

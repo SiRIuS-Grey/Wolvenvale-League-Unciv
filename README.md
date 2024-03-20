@@ -24,6 +24,27 @@ Adventurer
 -Unit attacks at range instead of melee.
 -Unit ignores terrain while moving and has a massive 4 vision range
 
+
+Music used: (Once folder is uploaded)
+
+Peacetime:
+- Stickerbrush Symphony '21 - GaMetal
+- A Kingdom Fallen - Juan Medrano (Final Fantasy II cover via OC Remix)
+- No Rain in the Desert - Lemonetric (Legend of Zelda Oracle of Seasons cover via OC Remix)
+- Dragon Roost Island '12 - GaMetal
+- Truth Despair Hope (FE Sacred Stones) - Evelyn Lark
+
+War
+-Death Gene - La Mulana 2 OST
+-Showdown at the Tower (DK94 Stage 9-8) - GaMetal
+-Twilight of the Gods (FE Echoes) - whitechubby
+-God Shattering Star - English Version (FE3H) - FamilyJules ft Joe Zieja
+
+Golden Ages: Moonlight Sonata (3rd Movement) - RichaadEB
+Defeat: Will's Dream (Illusion of Gaia) - Fenix Ark Angelus
+Victory: To Far Away Times (Chrono Trigger) - GaMetal
+
+
 Created using the Example Civ found at https://github.com/yairm210/Unciv-mod-example
 
 Icons used:

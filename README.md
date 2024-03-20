@@ -42,8 +42,10 @@ War
 
 Golden Ages: 
 - Moonlight Sonata (3rd Movement) - RichaadEB
+
 Defeat:
 - Will's Dream (Illusion of Gaia) - Fenix Ark Angelus
+
 Victory:
 - To Far Away Times (Chrono Trigger) - GaMetal
 

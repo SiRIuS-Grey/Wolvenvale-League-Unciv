@@ -9,7 +9,7 @@
 		"rangedStrength": 5,
 		"range": 2,
 		"cost": 30,
-		"uniques": ["Ignores Terrain Cost", "[4] Sight"],
-		"sounds": "whoosh"
+		"uniques": ["Ignores Terrain Cost", "[4] Sight","May upgrade to [Composite Bowman] through ruins-like effects"],
+		"sounds": "throw"
 	}
 ]
